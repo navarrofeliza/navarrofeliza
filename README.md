@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @navarrofeliza
-- 👀 I’m interested in all things video games and slowly learning coding. One day I'll be a Software Developer....
-- 🌱 I’m currently learning Python, C#, MERN, and hopefully JAVA!
-- 💞️ I’m looking to collaborate on nothing! Since I'm new, I want to learn the basics before I can start collabing.
-- 📫 How to reach me ... TBD
+- 👀 I’m interested in all things coding and slowly expanding my knowledge to cover many coding languages.
+- 🌱 I currently know JAVA, C#, Python, HTML5, CSS, NodeJS, MERN, MySQL, and Javascript.
+- 💞️ I’m looking to collaborate on anything automation, web developing, or many applications. I'll be scouring many open source projects and try to contribute.
+- 📫 How to reach me: Please email navarrofeliza@yahoo.com.
 
 <!---
 navarrofeliza/navarrofeliza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
